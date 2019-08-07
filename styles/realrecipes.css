@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  color: white;
+  text-shadow: 0.25px 0.25px 0.25px black;
+  align-items: space-evenly;
+  align-content: space-between;
+  flex-direction: column;
+  font-size: 18px;
+}
